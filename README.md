@@ -17,7 +17,7 @@
 ## 🚀 En progreso...
 
 Actualmente estoy completando cursos gratuitos como:
-- [TryHackMe - Pre Security & Jr Penetration Tester Path](https://tryhackme.com)
+- 
 
 ## 📫 Contacto
 
