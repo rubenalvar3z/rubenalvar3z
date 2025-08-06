@@ -25,5 +25,3 @@ Puedes encontrarme aquí:
 - GitHub: [github.com/rubenalvar3z](https://github.com/rubenalvar3z)
 
 ---
-
-> ⚡ *"El conocimiento es poder, pero la práctica constante lo convierte en habilidad."*
