@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Rubén
 
-<!--
-**rubenalvar3z/rubenalvar3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ciberseguridad y Redes (CFGS)  
+🔐 Apasionado por la ciberseguridad ofensiva, defensiva y la gestión de riesgos  
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades y tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐧 Linux (Bash, administración básica, hardening)
+- 🌐 Redes (modelo OSI, TCP/IP, Wireshark, Cisco Packet Tracer)
+- 📜 Python y scripts de automatización
+- 💻 Prácticas con Hack The Box y TryHackMe
+
+## 📁 Repositorios destacados
+
+- `htb-machines`: informes de máquinas de Hack The Box (retiradas)
+
+## 🚀 En progreso...
+
+Actualmente estoy completando cursos gratuitos como:
+- [TryHackMe - Pre Security & Jr Penetration Tester Path](https://tryhackme.com)
+
+## 📫 Contacto
+
+Puedes encontrarme aquí:
+- GitHub: [github.com/rubenalvar3z](https://github.com/rubenalvar3z)
+
+---
+
+> ⚡ *"El conocimiento es poder, pero la práctica constante lo convierte en habilidad."*
