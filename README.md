@@ -8,7 +8,7 @@
 - 🐧 Linux (Bash, administración básica, hardening)
 - 🌐 Redes (modelo OSI, TCP/IP, Wireshark, Cisco Packet Tracer)
 - 📜 Python y scripts de automatización
-- 💻 Prácticas con Hack The Box y TryHackMe
+- 💻 Prácticas con Hack The Box 
 
 ## 📁 Repositorios destacados
 
