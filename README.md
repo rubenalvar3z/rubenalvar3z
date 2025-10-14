@@ -12,7 +12,7 @@
 
 ## 📁 Repositorios destacados
 
-- `htb-machines`: informes de máquinas de Hack The Box (retiradas)
+- [htb-machines](https://github.com/rubenalvar3z/htb-machines): informes de máquinas de Hack The Box (retiradas)
 
 ## 🚀 En progreso...
 
